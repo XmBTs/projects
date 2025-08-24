@@ -43,7 +43,7 @@ The system integrates multi-sensor data and provides robust localization, mappin
 - Demonstrated reliable performance in dynamic human-populated environments  
 <!-- This is a comment 
 <p align="center">
-  <img src="docs/nav_result.png" width="600">
+  <img src="Bridge inspection.png" width="600">
 </p>-->
 
 ---
