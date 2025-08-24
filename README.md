@@ -21,10 +21,10 @@ Robots exchange **2.5D submaps** under bandwidth-limited communication and achie
 ### 📊 Results
 - Reduced communication by **>30%** compared with 3D submaps  
 - Achieved robust mapping in real-world multi-robot experiments  
-
+<--
 <p align="center">
   <img src="docs/slam_result.png" width="600">
-</p>
+</p>-->
 
 ### 🎥 Demo Video
 [![Demo](docs/slam_demo.png)](https://www.youtube.com/watch?v=xxxxxxx)
@@ -43,9 +43,9 @@ The system integrates multi-sensor data and provides robust localization, mappin
 ### 📊 Results
 - Successfully deployed in a university building for long-term navigation tests  
 - Demonstrated reliable performance in dynamic human-populated environments  
-
+<!-- This is a comment 
 <p align="center">
   <img src="docs/nav_result.png" width="600">
-</p>
+</p>-->
 
 ---
