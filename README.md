@@ -24,7 +24,8 @@ Robots exchange **2.5D submaps** under bandwidth-limited communication and achie
 <p align="center">
   <img src="muilt_map.png" width="600">
 </p>
-## 🚁 Project: Autonomous UAV Inspection System for Bridge Monitoring
+
+## 🤖 Project 2: Autonomous UAV Inspection System for Bridge Monitoring
 **Duration:** Aug. 2024 – Nov. 2024  
 **Role:** Independent Developer  
 
