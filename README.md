@@ -54,22 +54,22 @@ This project implements an **autonomous UAV inspection system** designed for bri
 - UAV successfully performed **autonomous takeoff and multi-point navigation**  
 - Relocalization error: **< 0.1 m**  
 - Mission success rate: **> 95%**  
-<--
-## 🤖 Project 2: Autonomous Drone-Based System for Bridge Inspection Missions
 
-### 🌍 Overview
-An **Autonomous Drone-Based System for Bridge Inspection Missions** designed for service robots operating in dynamic environments.  
-The system integrates multi-sensor data and provides robust localization, mapping, and obstacle avoidance.  
+<--## 🤖 Project 2: Autonomous Drone-Based System for Bridge Inspection Missions-->
 
-**Key Features:**
-- 🔎 Real-time **RTK + LIO** for initial localization and construct a matched-frame database and save high-precision bridge point cloud models
-- 🚧 Real-time obstacle detection & avoidance  
-- 🛠 ROS-based modular implementation  
+<--### 🌍 Overview
+<--An **Autonomous Drone-Based System for Bridge Inspection Missions** designed for service robots operating in dynamic environments.  -->
+<--The system integrates multi-sensor data and provides robust localization, mapping, and obstacle avoidance.  -->
 
-### 📊 Results
-- Successfully deployed in a university building for long-term navigation tests  
-- Demonstrated reliable performance in dynamic human-populated environments
--->
+<--**Key Features:**-->
+<--- 🔎 Real-time **RTK + LIO** for initial localization and construct a matched-frame database and save high-precision bridge point cloud models-->
+<--- 🚧 Real-time obstacle detection & avoidance  -->
+<--- 🛠 ROS-based modular implementation  -->
+
+<--### 📊 Results-->
+<--- Successfully deployed in a university building for long-term navigation tests  -->
+<--- Demonstrated reliable performance in dynamic human-populated environments-->
+
 
 <p align="center">
   <img src="Bridge_inspection.png" width="600">
