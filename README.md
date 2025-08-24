@@ -4,7 +4,7 @@ This repository presents the main projects I conducted during my graduate studie
 
 ---
 
-## 🚀 Project 1: Multi-Robot Cooperative SLAM
+## 🚀 Project 1: Multi-Robot Cooperative SLAM and Autonomous Exploration
 
 [![ROS](https://img.shields.io/badge/ROS-noetic-green.svg)]()  
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)]()  
@@ -25,10 +25,10 @@ Robots exchange **2.5D submaps** under bandwidth-limited communication and achie
   <img src="muilt_map.png" width="600">
 </p>
 
-## 🤖 Project 2: Autonomous Navigation System
+## 🤖 Project 2: Autonomous Drone-Based System for Bridge Inspection Missions
 
 ### 🌍 Overview
-An **indoor autonomous navigation system** designed for service robots operating in dynamic environments.  
+An **Autonomous Drone-Based System for Bridge Inspection Missions** designed for service robots operating in dynamic environments.  
 The system integrates multi-sensor data and provides robust localization, mapping, and obstacle avoidance.  
 
 **Key Features:**
@@ -45,4 +45,5 @@ The system integrates multi-sensor data and provides robust localization, mappin
 </p>
 
 ### 🎥 Demo Video
+The demos for all the projects introduced above can be viewed by scanning the QR code below.
 ![Demo](videos_show.png)
