@@ -24,7 +24,37 @@ Robots exchange **2.5D submaps** under bandwidth-limited communication and achie
 <p align="center">
   <img src="muilt_map.png" width="600">
 </p>
+## 🚁 Project: Autonomous UAV Inspection System for Bridge Monitoring
+**Duration:** Aug. 2024 – Nov. 2024  
+**Role:** Independent Developer  
 
+### 🌍 Overview
+This project implements an **autonomous UAV inspection system** designed for bridge monitoring tasks. The system enables a single drone to perform fully autonomous takeoff, multi-waypoint navigation, and precise localization along the bridge.  
+
+### 🛠 Platform
+- UAV equipped with **RTK, Livox Mid360 LiDAR, and Realsense D435**  
+- Onboard processor: **Intel NUC**  
+- Operating system: **Ubuntu 20.04**  
+
+### 📌 Key Features
+
+1. **Bridge Modeling:**  
+   - Real-time **RTK + LIO** for initial localization  
+   - Construct a matched-frame database and save high-precision bridge point cloud models  
+
+2. **Relocalization:**  
+   - Extract keyframe point cloud descriptors and match them with the database  
+   - Use **iSAM** for factor graph optimization to obtain accurate UAV poses  
+
+3. **Multi-Waypoint Navigation:**  
+   - Developed a **multi-waypoint selection plugin in Rviz**  
+   - Designed a **global planner** to select navigation points online based on the bridge model  
+
+### 📊 Results
+- UAV successfully performed **autonomous takeoff and multi-point navigation**  
+- Relocalization error: **< 0.1 m**  
+- Mission success rate: **> 95%**  
+<--
 ## 🤖 Project 2: Autonomous Drone-Based System for Bridge Inspection Missions
 
 ### 🌍 Overview
@@ -32,13 +62,14 @@ An **Autonomous Drone-Based System for Bridge Inspection Missions** designed for
 The system integrates multi-sensor data and provides robust localization, mapping, and obstacle avoidance.  
 
 **Key Features:**
-- 🔎 Multi-sensor fusion (LiDAR, IMU, camera)  
+- 🔎 Real-time **RTK + LIO** for initial localization and construct a matched-frame database and save high-precision bridge point cloud models
 - 🚧 Real-time obstacle detection & avoidance  
 - 🛠 ROS-based modular implementation  
 
 ### 📊 Results
 - Successfully deployed in a university building for long-term navigation tests  
-- Demonstrated reliable performance in dynamic human-populated environments  
+- Demonstrated reliable performance in dynamic human-populated environments
+-->
 
 <p align="center">
   <img src="Bridge_inspection.png" width="600">
