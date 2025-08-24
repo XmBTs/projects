@@ -45,5 +45,5 @@ The system integrates multi-sensor data and provides robust localization, mappin
 </p>
 
 ### 🎥 Demo Video
-The demos for all the projects introduced above can be viewed by scanning the QR code below.
+- The demos for all the projects introduced above can be viewed by scanning the QR code below.
 ![Demo](videos_show.png)
