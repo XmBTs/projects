@@ -23,10 +23,10 @@ Robots exchange **2.5D submaps** under bandwidth-limited communication and achie
 - Achieved robust mapping in real-world multi-robot experiments  
 <p align="center">
   <img src="muilt_map.png" width="600">
-</p>-->
+</p>
 
 ### 🎥 Demo Video
-![Demo](video_show.png)
+![Demo](video_show.PNG)
 
 ## 🤖 Project 2: Autonomous Navigation System
 
