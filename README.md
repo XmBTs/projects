@@ -26,7 +26,7 @@ Robots exchange **2.5D submaps** under bandwidth-limited communication and achie
 </p>
 
 ### 🎥 Demo Video
-![Demo](videos_show.PNG)
+![Demo](videos_show.png)
 
 ## 🤖 Project 2: Autonomous Navigation System
 
