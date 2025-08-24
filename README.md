@@ -24,8 +24,9 @@ Robots exchange **2.5D submaps** under bandwidth-limited communication and achie
 <p align="center">
   <img src="muilt_map.png" width="600">
 </p>-->
+
 ### 🎥 Demo Video
-[![Demo](video_show.png)]
+![Demo](video_show.png)
 
 ## 🤖 Project 2: Autonomous Navigation System
 
