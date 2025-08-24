@@ -48,13 +48,3 @@ The system integrates multi-sensor data and provides robust localization, mappin
 </p>
 
 ---
-
-## 📄 Publication
-If you use this work, please cite:
-```bibtex
-@inproceedings{yourname2025multirobotslam,
-  title     = {A Bandwidth-Efficient Multi-Robot Cooperative SLAM System with 2.5D Submap Communication},
-  author    = {Your Name and Others},
-  booktitle = {IEEE International Conference on Robotics and Automation (ICRA)},
-  year      = {2025}
-}
