@@ -21,13 +21,11 @@ Robots exchange **2.5D submaps** under bandwidth-limited communication and achie
 ### 📊 Results
 - Reduced communication by **>30%** compared with 3D submaps  
 - Achieved robust mapping in real-world multi-robot experiments  
-<--
 <p align="center">
   <img src="docs/slam_result.png" width="600">
 </p>-->
-
 ### 🎥 Demo Video
-[![Demo](docs/slam_demo.png)](https://www.youtube.com/watch?v=xxxxxxx)
+[![Demo](docs/slam_demo.png)]
 
 ## 🤖 Project 2: Autonomous Navigation System
 
