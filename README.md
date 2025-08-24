@@ -41,9 +41,7 @@ The system integrates multi-sensor data and provides robust localization, mappin
 ### 📊 Results
 - Successfully deployed in a university building for long-term navigation tests  
 - Demonstrated reliable performance in dynamic human-populated environments  
-<!-- This is a comment 
+
 <p align="center">
   <img src="Bridge inspection.png" width="600">
 </p>-->
-
----
