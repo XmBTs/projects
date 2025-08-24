@@ -25,9 +25,6 @@ Robots exchange **2.5D submaps** under bandwidth-limited communication and achie
   <img src="muilt_map.png" width="600">
 </p>
 
-### 🎥 Demo Video
-![Demo](videos_show.png)
-
 ## 🤖 Project 2: Autonomous Navigation System
 
 ### 🌍 Overview
@@ -46,6 +43,6 @@ The system integrates multi-sensor data and provides robust localization, mappin
 <p align="center">
   <img src="Bridge_inspection.png" width="600">
 </p>
+
 ### 🎥 Demo Video
 ![Demo](videos_show.png)
----
