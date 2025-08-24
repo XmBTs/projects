@@ -22,7 +22,7 @@ Robots exchange **2.5D submaps** under bandwidth-limited communication and achie
 - Reduced communication by **>30%** compared with 3D submaps  
 - Achieved robust mapping in real-world multi-robot experiments  
 <p align="center">
-  <img src="Bridge_inspection.png" width="600">
+  <img src="muilt_map.png" width="600">
 </p>-->
 ### 🎥 Demo Video
 [![Demo](video_show.png)]
@@ -43,5 +43,5 @@ The system integrates multi-sensor data and provides robust localization, mappin
 - Demonstrated reliable performance in dynamic human-populated environments  
 
 <p align="center">
-  <img src="muilt_map.png" width="600">
+  <img src="Bridge_inspection.png" width="600">
 </p>-->
