@@ -1,6 +1,6 @@
 # 🎓 Graduate Research Projects（Incomplete）
 
-This repository presents the main projects I conducted during my graduate studies, focusing on **multi-robot SLAM** and **autonomous navigation**. [点击查看项目说明书 (PDF)](./作品介绍.pdf)
+This repository presents the main projects I conducted during my graduate studies, focusing on **multi-robot SLAM** and **autonomous navigation**. [点击查看项目说明书 (PDF)](./report.pdf)
 
 ---
 
